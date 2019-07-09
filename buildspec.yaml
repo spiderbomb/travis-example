@@ -4,9 +4,6 @@ phases:
   install:
     commands:
 
-      # Upgrade apt
-      - apt-get upgrade
-
       # Update libs
       - apt-get update
 
