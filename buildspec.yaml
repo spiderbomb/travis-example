@@ -1,6 +1,13 @@
 version: 0.2
 
 phases:
+  install:
+    commands:
+      - apt-get update
+      - apt-get install -y libsound2 libnspr4 libnss3 lib11-xcb1 xdg-utils libxss1
+      - wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+      - dpkg -i google-chrome*.deb
+
   pre_build:
     commands:
       - npm install
@@ -8,6 +15,7 @@ phases:
   build:
     commands:
       - npm run build:ci
+      - npm run test:ci
 
 artifacts:
   base-directory: 'dist/travis-example'
