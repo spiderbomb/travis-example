@@ -1,0 +1,87 @@
+{
+  "@angular/animations@8.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/angular/angular",
+    "publisher": "angular",
+    "path": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example\\node_modules\\@angular\\animations",
+    "licenseFile": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example\\node_modules\\@angular\\animations\\README.md"
+  },
+  "@angular/common@8.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/angular/angular",
+    "publisher": "angular",
+    "path": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example\\node_modules\\@angular\\common",
+    "licenseFile": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example\\node_modules\\@angular\\common\\README.md"
+  },
+  "@angular/compiler@8.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/angular/angular",
+    "publisher": "angular",
+    "path": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example\\node_modules\\@angular\\compiler",
+    "licenseFile": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example\\node_modules\\@angular\\compiler\\README.md"
+  },
+  "@angular/core@8.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/angular/angular",
+    "publisher": "angular",
+    "path": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example\\node_modules\\@angular\\core",
+    "licenseFile": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example\\node_modules\\@angular\\core\\README.md"
+  },
+  "@angular/forms@8.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/angular/angular",
+    "publisher": "angular",
+    "path": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example\\node_modules\\@angular\\forms",
+    "licenseFile": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example\\node_modules\\@angular\\forms\\README.md"
+  },
+  "@angular/platform-browser-dynamic@8.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/angular/angular",
+    "publisher": "angular",
+    "path": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example\\node_modules\\@angular\\platform-browser-dynamic",
+    "licenseFile": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example\\node_modules\\@angular\\platform-browser-dynamic\\README.md"
+  },
+  "@angular/platform-browser@8.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/angular/angular",
+    "publisher": "angular",
+    "path": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example\\node_modules\\@angular\\platform-browser",
+    "licenseFile": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example\\node_modules\\@angular\\platform-browser\\README.md"
+  },
+  "@angular/router@8.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/angular/angular",
+    "publisher": "angular",
+    "path": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example\\node_modules\\@angular\\router",
+    "licenseFile": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example\\node_modules\\@angular\\router\\README.md"
+  },
+  "rxjs@6.4.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/reactivex/rxjs",
+    "publisher": "Ben Lesh",
+    "email": "ben@benlesh.com",
+    "path": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example\\node_modules\\rxjs",
+    "licenseFile": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example\\node_modules\\rxjs\\LICENSE.txt"
+  },
+  "travis-example@0.0.0": {
+    "licenses": "UNLICENSED",
+    "private": true,
+    "path": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example",
+    "licenseFile": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example\\README.md"
+  },
+  "tslib@1.10.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/Microsoft/tslib",
+    "publisher": "Microsoft Corp.",
+    "path": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example\\node_modules\\tslib",
+    "licenseFile": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example\\node_modules\\tslib\\LICENSE.txt"
+  },
+  "zone.js@0.9.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/angular/zone.js",
+    "publisher": "Brian Ford",
+    "path": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example\\node_modules\\zone.js",
+    "licenseFile": "C:\\Users\\avish\\Practice\\sandbox\\angular\\travis-example\\node_modules\\zone.js\\LICENSE"
+  }
+}
+
