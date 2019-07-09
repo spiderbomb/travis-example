@@ -1,5 +1,5 @@
 # TravisExample
-[![Build Status](https://codebuild.eu-central-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiVXFkY29yVStXQkpZZGFSYnNoY2FXRkVmaUV1bVNCd1BTMm4wRUVJQ2w4cEx1YUNTblhJakVBd1BuRHRKREhkKzJ0a1JnRG9YL2liUXkvRnZTa2RmS3ZZPSIsIml2UGFyYW1ldGVyU3BlYyI6IktRVmtpeVYyMVV1eFpIVU8iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+[Build Status](https://codebuild.eu-central-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiVXFkY29yVStXQkpZZGFSYnNoY2FXRkVmaUV1bVNCd1BTMm4wRUVJQ2w4cEx1YUNTblhJakVBd1BuRHRKREhkKzJ0a1JnRG9YL2liUXkvRnZTa2RmS3ZZPSIsIml2UGFyYW1ldGVyU3BlYyI6IktRVmtpeVYyMVV1eFpIVU8iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.4.
 
