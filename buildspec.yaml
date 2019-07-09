@@ -8,3 +8,13 @@ phases:
   build:
     commands:
       - npm run build:ci
+
+artifacts:
+  bade-directory: 'dist/travis-example'
+  discard-paths: yes
+  files:
+    - '**/*.js'
+    - '**/*.css'
+    - '**/*.html'
+    - '**/*.ico'
+
