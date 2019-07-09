@@ -10,7 +10,7 @@ phases:
       - npm run build:ci
 
 artifacts:
-  bade-directory: 'dist/travis-example'
+  base-directory: 'dist/travis-example'
   discard-paths: yes
   files:
     - '**/*.js'
