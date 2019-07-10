@@ -20,11 +20,16 @@ module.exports = function (config) {
       reports: ['html', 'lcovonly', 'text-summary'],
       fixWebpackSourcePaths: true
     },
-    customLaunhers: {
+
+    customLaunchers: {
+      ChromeHeadlessNoSandbox: {
+        base: 'ChromeHeadless',
+        flags: ['--no-sandbox']
+      },
+
       ChromeHeadless: {
         base: 'Chrome',
         flags: [
-          '--no-sandbox',
           '--headless',
           '--disable-gpu',
           '--remote-debugging-port=9222',
