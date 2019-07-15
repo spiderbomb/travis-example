@@ -1,5 +1,9 @@
 # TravisExample
+build #1
  ![Build Status](https://codebuild.eu-central-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiVXFkY29yVStXQkpZZGFSYnNoY2FXRkVmaUV1bVNCd1BTMm4wRUVJQ2w4cEx1YUNTblhJakVBd1BuRHRKREhkKzJ0a1JnRG9YL2liUXkvRnZTa2RmS3ZZPSIsIml2UGFyYW1ldGVyU3BlYyI6IktRVmtpeVYyMVV1eFpIVU8iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+
+build #2
+ ![Build Status](https://codebuild.eu-central-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiNVV6VXNYTjhvWktmeDhmUm9mLzB2T2d0aUdlV0FnZlBhRi81WEQxems2QVVrendmQXV3bThpeEV6WkxVcmd0dDlXYXpkU0Y2M1BCbGhoRnNJQ24zdldNPSIsIml2UGFyYW1ldGVyU3BlYyI6Imp6Mi9GaWdrTVY0V1J6K3oiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.4.
 
