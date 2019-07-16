@@ -24,3 +24,7 @@ phases:
   # post_build:
     # commands:
       # - aws s3 sync ./dist/travis-example s3://avishco-angular-production --acl 'public-read' --delete
+
+artifacts:
+  files:
+    - '**/*'
