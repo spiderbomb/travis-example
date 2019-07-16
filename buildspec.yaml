@@ -2,16 +2,16 @@ version: 0.2
 
 phases:
   install:
-    runtime-versions:
-        nodejs: 10
+    # runtime-versions:
+    #     nodejs: 10
 
-    commands:
-      # Update libs
-      - apt-get update
-      # Headless Chrome
-      - apt-get install -y fonts-liberation libasound2 libnspr4 libnss3 libx11-xcb1 xdg-utils libxss1 libappindicator1 libindicator7
-      - wget http://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-      - dpkg -i google-chrome*.deb
+    # commands:
+    #   # Update libs
+    #   - apt-get update
+    #   # Headless Chrome
+    #   - apt-get install -y fonts-liberation libasound2 libnspr4 libnss3 libx11-xcb1 xdg-utils libxss1 libappindicator1 libindicator7
+    #   - wget http://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    #   - dpkg -i google-chrome*.deb
 
   pre_build:
     commands:
@@ -22,5 +22,5 @@ phases:
       - npm run build:ci
 
   post_build:
-    commands:
+    # commands:
       # - aws s3 sync ./dist/travis-example s3://avishco-angular-production --acl 'public-read' --delete
